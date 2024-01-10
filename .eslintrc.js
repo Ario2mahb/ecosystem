@@ -6,7 +6,7 @@ module.exports = {
       'simple-import-sort',
       'eslint-plugin-testing-library',
       'eslint-plugin-jsdoc',
-    ],
+    ],n m
     rules: {
       '@typescript-eslint/consistent-type-imports': 'error',
       'no-console': 'warn',
