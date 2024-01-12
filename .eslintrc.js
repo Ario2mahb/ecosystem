@@ -1,4 +1,4 @@
-module.exports = {
+m, module.exports = {
     extends: ['react-app', 'plugin:storybook/recommended'],
     root: true,
     ignorePatterns: ['src/assets/**/*', '**/build/**/*', '**/dist/**/*', '**/typechain/**/*'],
